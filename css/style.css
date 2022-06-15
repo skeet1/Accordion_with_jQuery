@@ -16,7 +16,6 @@ body {
     width: 600px;
     margin: auto;
     margin-top: 20%;
-    background-color: bisque;
 }
 
 h1 {
@@ -30,4 +29,8 @@ p {
     background-color: #fff;
     color: #4287f5;
     font-weight: 600;
+}
+
+.qest1 h1{
+    border-radius: 15px 15px 0 0;
 }
